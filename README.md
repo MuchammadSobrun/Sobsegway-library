@@ -12,7 +12,7 @@ Driver Motor pin (use):
 - F/R (Direction)
 
 Motor spec:
-BLDC Hoverboard : U,V,W Power cable + HU,HW,HV Hall sensor
+BLDC Hoverboard : U,V,W Power cable and HU,HW,HV Hall sensor
 
-Mcricontroller:
+Microcontroller:
 - Arduino MEGA
